@@ -13,7 +13,7 @@ SYNAPSE_CONN_ID = "azure_synapse_connection"
 SYNAPSE_SERVER = "dgwork.sql.azuresynapse.net"
 SYNAPSE_DATABASE = "dgpool"
 SYNAPSE_USER = "sqladminuser"
-SYNAPSE_PASSWORD = "!74@08Do"
+SYNAPSE_PASSWORD = "********"
 SYNAPSE_TABLE = "ChurnTable"
 
 # Função para upload do arquivo ao Azure Blob Storage
