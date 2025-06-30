@@ -3,7 +3,7 @@
 <p>Este projeto tem como objetivo demonstrar uma arquitetura de pipeline de dados, 
 utilizando tecnologias adotadas no mercado como Azure Synapse Analytics, 
 Azure Blob Storage e Apache Airflow. A solução visa facilitar o carregamento, 
-armazenamento e processamento de dados em nuvem a partir de uma fonte local</p>
+armazenamento e processamento de dados em nuvem a partir de uma fonte local.</p>
 
 <h2>Componentes da Arquitetura</h2>
 
