@@ -16,14 +16,10 @@ armazenamento e processamento de dados em nuvem a partir de uma fonte local.</p>
 <h3>2. Azure Synapse Analytics:</h3>
 <ul>
   <li>Armazena dados brutos antes do processamento.</li>
-</ul>
-
-<h3>3. Azure Synapse Analytics:</h3>
-<ul>
   <li>Utilizada para processamento e análise dos dados.</li>
 </ul>
 
-<h3>4. Apache Airflow</h3>
+<h3>3. Apache Airflow</h3>
 <ul>
   <li>Orquestrador de workflows.</li>
 </ul>
